@@ -1,0 +1,33 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By identifying ranges of changed lines and placing the changes next to each other, it was much easier to spot the differences than comparing two separate files visually.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    The ability to compare and/ or undo changes is a huge time saver on complicated projects.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    The pro of manual saving is that I won’t have to go through a lot of unnecessary version searching when going back through a file that took a long time to edit; the con is that I can lose changes that I forget to commit,
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Mass commit is more efficient when working with a large number of files, for example when importing a number of files from an outside source.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log gives a general history of changes; git diff gives differences between a pair of revisions (?)
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It’s always good to know that you can go back to a known quantity.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Version control for the iOS developer course.
