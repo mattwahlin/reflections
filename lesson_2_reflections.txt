@@ -17,6 +17,8 @@ Branches would be useful when adding changes to a program which add new features
 
 How do the diagrams help you visualize the branch structure?
 
+They give an easy visualization of where branches originate and what is in them.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
