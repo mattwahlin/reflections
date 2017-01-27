@@ -8,6 +8,8 @@ What value do you think it offers? flexibility in choosing new files to commit, 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+By only doing "git add" for files which have been modified for that change; unrelated changes can be added/ committed after the commit for the 1st logical change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
