@@ -22,5 +22,9 @@ They give an easy visualization of where branches originate and what is in them.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+All changes from the branches are merged into a single branch, displaying in time-order in the log. The representation used in teh diagram reflects the history of the separate creation of the branches, as well as the act of merging them into a single branch.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+Automatic merging can save a lot of work if changes tend to be on distinct sections of code, however things can get complex when changes conflict and can't be resolved by the automatic merge.
