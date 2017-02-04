@@ -1,2 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
+When the possibility exists that I would share the reporistory (it also serves as a convenient remote backup for my work!)
