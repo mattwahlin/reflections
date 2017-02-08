@@ -10,3 +10,11 @@ Describe the differences between forks, clones, and branches. When would you use
 
 A fork is a copy of a repository made within github, with information linking it back to its source repository, however changes made to the forked repository do NOT go back to the parent from which it was 'forked'. A clone of a repository (either from a local or remote repository) is an exact copy made to your computer which can then be locally modified, A branch represents an intent to create a set of changes in a single reporitory which can be tracked as separate from other branches in that repository.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+By having this copy, git has the information necessary to merg both changes made on your local repository AND changes that have occurred on the remote repository since the last time you pulled from it.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Without using Git or Github, there would have to be a lot of manually communication between parties to know who was changing what, and (assuming changes collided) a LOT of work using diff to resolve changes.  Using Git & Github makes changes MUCH easier!
+
